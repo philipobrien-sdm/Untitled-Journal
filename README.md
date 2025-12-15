@@ -3,6 +3,7 @@
 > "The mirror must not speak first. The user writes. The app only reflects what is already there."
 
 A quiet, minimalist journaling application that resists the urge to "optimize" the user. It offers no streaks, no advice, no mood tracking, and no gamification. It exists solely to accumulate evidence of existence over time.
+
 <img width="300" height="200" alt="Screenshot 2025-12-15 065339" src="https://github.com/user-attachments/assets/fd5601ee-9d65-4dee-a777-8978c9cf0ff5" />
 <img width="300" height="200" alt="Screenshot 2025-12-15 065413" src="https://github.com/user-attachments/assets/ea85d8cb-0056-4e4a-997b-4bf285e159e5" />
 <img width="300" height="200" alt="Screenshot 2025-12-15 065447" src="https://github.com/user-attachments/assets/c65f45c3-df1c-4e9e-aaed-698a03481900" />
